@@ -1,6 +1,6 @@
-# SumTextOn - (YouTube) Text Summarizer - User Manual
+# TextOn - (YouTube) Text Summarizer - User Manual
 
-Welcome to the **SumTextOn - (YouTube) Text Summarizer**, a web-based tool designed to help you quickly summarize the content of YouTube videos by extracting and condensing their transcripts.
+Welcome to the **TextOn - (YouTube) Text Summarizer**, a web-based tool designed to help you quickly summarize the content of YouTube videos by extracting and condensing their transcripts.
 
 ## Table of Contents
 
@@ -15,7 +15,7 @@ Welcome to the **SumTextOn - (YouTube) Text Summarizer**, a web-based tool desig
 
 ## Overview
 
-The **SumTextOn - (YouTube) Text Summarizer** is a free tool that allows you to input the URL of any YouTube video and automatically generate a summary of its transcript. This is useful for quickly grasping the main ideas of a video without having to watch the entire thing.
+The **TextOn - (YouTube) Text Summarizer** is a free tool that allows you to input the URL of any YouTube video and automatically generate a summary of its transcript. This is useful for quickly grasping the main ideas of a video without having to watch the entire thing.
 
 ## Features
 
@@ -32,7 +32,7 @@ The **SumTextOn - (YouTube) Text Summarizer** is a free tool that allows you to 
 ### Step-by-Step Instructions:
 
 1. **Open the Application**
-    - Visit the summarizer app at [SumTexTon YouTube Summarizer](https://sumtexton.vercel.app/).
+    - Visit the summarizer app at [TextOn YouTube Summarizer](https://texton.vercel.app/).
 
 2. **Enter the YouTube Video URL**
     - Copy the URL of the YouTube video you want to summarize.
@@ -77,8 +77,8 @@ Yes, the summarizer supports multiple languages, as long as the video has a tran
 
 If you encounter any issues or have questions, feel free to reach out for support:
 
-- **GitHub**: [SumTextOn Issues](https://github.com/jasineri/sumtexton/issues)
+- **GitHub**: [TextOn Issues](https://github.com/jasineri/texton/issues)
 
 ---
 
-Enjoy using the **SumTextOn - (YouTube) Text Summarizer** and save time by quickly understanding YouTube content!
+Enjoy using the **TextOn - (YouTube) Text Summarizer** and save time by quickly understanding YouTube content!
